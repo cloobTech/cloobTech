@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cloobTech
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning with ALX Africa
+- 🌱 I’m currently learning software engineering (FrontEnd) with ALX Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on olamide-bello.web.app
 
